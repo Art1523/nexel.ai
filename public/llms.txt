@@ -1,0 +1,7 @@
+# Nexel
+
+> Nexel orchestrates self-improving AI agents that ingest, model, govern and deliver your data — from raw streams to executive-ready insight, in minutes.
+
+## Pages
+
+- [Home](/): Product overview, features, pricing, and customer proof for the Nexel autonomous data automation platform.
